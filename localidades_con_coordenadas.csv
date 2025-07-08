@@ -1,0 +1,244 @@
+localidad,pais,provincia,continente,localidad_pais,lat,lon
+Ezeiza,Argentina,Buenos Aires,América del Sur,Ezeiza (Argentina),-34.8168141,-58.5474234
+Bahía Blanca,Argentina,Buenos Aires,América del Sur,Bahía Blanca (Argentina),-38.7176522,-62.2654871
+Mar del Plata,Argentina,Buenos Aires,América del Sur,Mar del Plata (Argentina),-37.9976168,-57.5482079
+El Palomar,Argentina,Buenos Aires,América del Sur,El Palomar (Argentina),-34.6225227,-58.595568
+San Carlos de Bariloche,Argentina,Río Negro,América del Sur,San Carlos de Bariloche (Argentina),-41.1334781,-71.3101474
+Salta,Argentina,Salta,América del Sur,Salta (Argentina),-25.1076701,-64.3494964
+Córdoba,Argentina,Córdoba,América del Sur,Córdoba (Argentina),-31.4166867,-64.1834193
+El Calafate,Argentina,Santa Cruz,América del Sur,El Calafate (Argentina),-50.3387375,-72.2737216
+Ciudad de Buenos Aires,Argentina,Ciudad Autónoma de Buenos Aires,América del Sur,Ciudad de Buenos Aires (Argentina),-34.6083696,-58.4440583
+Mendoza,Argentina,Mendoza,América del Sur,Mendoza (Argentina),-34.787093,-68.4381868
+Comodoro Rivadavia,Argentina,Chubut,América del Sur,Comodoro Rivadavia (Argentina),-45.8632024,-67.4752615
+Trelew,Argentina,Chubut,América del Sur,Trelew (Argentina),-43.2531242,-65.3094407
+Rosario,Argentina,Santa Fe,América del Sur,Rosario (Argentina),-32.9593609,-60.6617024
+Neuquén,Argentina,Neuquén,América del Sur,Neuquén (Argentina),-38.3695057,-69.832275
+Puerto Iguazú,Argentina,Misiones,América del Sur,Puerto Iguazú (Argentina),-25.6107508,-54.5764199
+Resistencia,Argentina,Chaco,América del Sur,Resistencia (Argentina),-27.6048829,-59.1932003
+La Rioja,Argentina,La Rioja,América del Sur,La Rioja (Argentina),-29.9729781,-67.0487944
+San Miguel de Tucumán,Argentina,Tucumán,América del Sur,San Miguel de Tucumán (Argentina),-26.8303703,-65.2038133
+Río Gallegos,Argentina,Santa Cruz,América del Sur,Río Gallegos (Argentina),-51.6268852,-69.105804
+Río Grande,Argentina,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",América del Sur,Río Grande (Argentina),-53.7858275,-67.7018562
+Corrientes,Argentina,Corrientes,América del Sur,Corrientes (Argentina),-28.9956512,-57.812458
+Perito Moreno,Argentina,Santa Cruz,América del Sur,Perito Moreno (Argentina),-46.5915874,-70.925525
+San Fernando del Valle de Catamarca,Argentina,Catamarca,América del Sur,San Fernando del Valle de Catamarca (Argentina),-28.4688806,-65.7790642
+Río Cuarto,Argentina,Córdoba,América del Sur,Río Cuarto (Argentina),-33.1237585,-64.3489782
+Puerto Madryn,Argentina,Chubut,América del Sur,Puerto Madryn (Argentina),-42.7673414,-65.0365942
+Puerto Argentino,Argentina,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",América del Sur,Puerto Argentino (Argentina),-39.1090528,-67.0883807
+Reconquista,Argentina,Santa Fe,América del Sur,Reconquista (Argentina),-29.1443478,-59.6437728
+Posadas,Argentina,Misiones,América del Sur,Posadas (Argentina),-27.3664824,-55.894295
+Esquel,Argentina,Chubut,América del Sur,Esquel (Argentina),-42.9173055,-71.3216508
+Paraná,Argentina,Entre Ríos,América del Sur,Paraná (Argentina),-27.4662517,-56.7202568
+Rio Hondo,Argentina,Santiago del Estero,América del Sur,Rio Hondo (Argentina),-27.8162017,-64.2980404
+Malargue,Argentina,Mendoza,América del Sur,Malargue (Argentina),-35.4752134,-69.585934
+San Juan,Argentina,San Juan,América del Sur,San Juan (Argentina),-30.7054363,-69.1988222
+Formosa,Argentina,Formosa,América del Sur,Formosa (Argentina),-24.5955306,-60.4289718
+Santa Fe,Argentina,Santa Fe,América del Sur,Santa Fe (Argentina),-30.3154739,-61.1645076
+San Julian,Argentina,Santa Cruz,América del Sur,San Julian (Argentina),-24.3073253,-64.6594346
+Santa Rosa,Argentina,La Pampa,América del Sur,Santa Rosa (Argentina),-36.6203503,-64.2905765
+San Salvador de Jujuy,Argentina,Jujuy,América del Sur,San Salvador de Jujuy (Argentina),-24.1852569,-65.2994789
+San Luis,Argentina,San Luis,América del Sur,San Luis (Argentina),-33.2762202,-65.9515546
+San Rafael,Argentina,Mendoza,América del Sur,San Rafael (Argentina),-34.6126025,-68.330514
+San Martín de los Andes,Argentina,Neuquén,América del Sur,San Martín de los Andes (Argentina),-40.1568791,-71.3525588
+Ushuaia,Argentina,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",América del Sur,Ushuaia (Argentina),-54.807306,-68.3084133
+Moron,Argentina,Buenos Aires,América del Sur,Moron (Argentina),-34.6510527,-58.6217416
+San Fernando,Argentina,Buenos Aires,América del Sur,San Fernando (Argentina),-34.4471919,-58.5701505
+Santiago del Estero,Argentina,Santiago del Estero,América del Sur,Santiago del Estero (Argentina),-27.6431016,-63.5408542
+Sunchales,Argentina,Santa Fe,América del Sur,Sunchales (Argentina),-30.9450891,-61.5608072
+Viedma,Argentina,Río Negro,América del Sur,Viedma (Argentina),-40.8084274,-62.994722
+Merlo,Argentina,San Luis,América del Sur,Merlo (Argentina),-34.6604988,-58.7321695
+Río Mayo,Argentina,Chubut,América del Sur,Río Mayo (Argentina),-45.6861412,-70.2563809
+Santa Cruz,Argentina,Santa Cruz,América del Sur,Santa Cruz (Argentina),-48.5693327,-70.1606767
+Río de Janeiro,Brasil,,América del Sur,Río de Janeiro (Brasil),-22.9110137,-43.2093727
+Florianópolis,Brasil,,América del Sur,Florianópolis (Brasil),-27.5973002,-48.5496098
+São Paulo,Brasil,,América del Sur,São Paulo (Brasil),-23.5506507,-46.6333824
+Curitiba,Brasil,,América del Sur,Curitiba (Brasil),-25.4295963,-49.2712724
+Porto Alegre,Brasil,,América del Sur,Porto Alegre (Brasil),-30.0324999,-51.2303767
+Porto Seguro,Brasil,,América del Sur,Porto Seguro (Brasil),-16.443473,-39.064251
+Salvador,Brasil,,América del Sur,Salvador (Brasil),-12.9822499,-38.4812772
+Cabo Frio,Brasil,,América del Sur,Cabo Frio (Brasil),-22.8804369,-42.0189227
+Maceió,Brasil,,América del Sur,Maceió (Brasil),-9.6476843,-35.7339264
+Brasilia,Brasil,,América del Sur,Brasilia (Brasil),-10.3333333,-53.2
+Boa Vista,Brasil,,América del Sur,Boa Vista (Brasil),2.82,-60.671944
+Manaus,Brasil,,América del Sur,Manaus (Brasil),-3.1316333,-59.9825041
+Foz Do Iguaçu,Brasil,,América del Sur,Foz Do Iguaçu (Brasil),-25.5304023,-54.5830692
+Recife,Brasil,,América del Sur,Recife (Brasil),-8.0584933,-34.8848193
+Fernando De Noronha,Brasil,,América del Sur,Fernando De Noronha (Brasil),-3.8537498,-32.4198018
+Fortaleza,Brasil,,América del Sur,Fortaleza (Brasil),-3.7304512,-38.5217989
+Belo Horizonte,Brasil,,América del Sur,Belo Horizonte (Brasil),-19.9227318,-43.9450948
+Vitória,Brasil,,América del Sur,Vitória (Brasil),-20.3200917,-40.3376682
+Goiânia,Brasil,,América del Sur,Goiânia (Brasil),-16.680882,-49.2532691
+Cuiaba,Brasil,,América del Sur,Cuiaba (Brasil),-15.5986686,-56.099130099999996
+São José Dos Campos,Brasil,,América del Sur,São José Dos Campos (Brasil),-23.1867782,-45.8854538
+São José Do Rio Preto,Brasil,,América del Sur,São José Do Rio Preto (Brasil),-20.8125851,-49.3804212
+Caxias Do Sul,Brasil,,América del Sur,Caxias Do Sul (Brasil),-29.1685045,-51.1796385
+Natal,Brasil,,América del Sur,Natal (Brasil),-5.805398,-35.2080905
+Parnamirim,Brasil,,América del Sur,Parnamirim (Brasil),-5.9153334,-35.2679913
+Itaituba,Brasil,,América del Sur,Itaituba (Brasil),-4.2625218,-55.9878139
+Punta del Este,Uruguay,,América del Sur,Punta del Este (Uruguay),-34.9632342,-54.9439981
+Montevideo,Uruguay,,América del Sur,Montevideo (Uruguay),-34.9058916,-56.1913095
+Asunción,Paraguay,,América del Sur,Asunción (Paraguay),-25.2800459,-57.6343814
+Santiago,Chile,,América del Sur,Santiago (Chile),-33.4377756,-70.6504502
+Santa Cruz de la Sierra,Bolivia,,América del Sur,Santa Cruz de la Sierra (Bolivia),-17.7834217,-63.1820853
+Lima,Perú,,América del Sur,Lima (Perú),-12.0621065,-77.0365256
+Punta Arenas,Chile,,América del Sur,Punta Arenas (Chile),-53.1625688,-70.907822
+Iquique,Chile,,América del Sur,Iquique (Chile),-20.2140657,-70.1524646
+Quito,Ecuador,,América del Sur,Quito (Ecuador),-0.2201641,-78.5123274
+Arica,Chile,,América del Sur,Arica (Chile),-18.4785288,-70.3211394
+Iquitos,Perú,,América del Sur,Iquitos (Perú),-3.749365,-73.2444145
+La Serena,Chile,,América del Sur,La Serena (Chile),-29.902631,-71.2520253
+La Paz,Bolivia,,América del Sur,La Paz (Bolivia),-16.4955455,-68.1336229
+Cochabamba,Bolivia,,América del Sur,Cochabamba (Bolivia),-17.4012458,-66.1675681
+Puerto Williams,Chile,,América del Sur,Puerto Williams (Chile),-54.935761,-67.6061824
+Ciudad del Este,Paraguay,,América del Sur,Ciudad del Este (Paraguay),-25.5169015,-54.6168645
+Puerto Natales,Chile,,América del Sur,Puerto Natales (Chile),-51.7262003,-72.5059982
+Concepcion,Chile,,América del Sur,Concepcion (Chile),-36.8270698,-73.0502064
+Antofagasta,Chile,,América del Sur,Antofagasta (Chile),-23.6463741,-70.3980033
+Porlamar,Venezuela,,América del Sur,Porlamar (Venezuela),10.9635839,-63.8464509
+Bogotá,Colombia,,América del Sur,Bogotá (Colombia),4.7110053,-74.0720857
+Barranquilla,Colombia,,América del Sur,Barranquilla (Colombia),11.0101922,-74.8231794
+Chepica,Chile,,América del Sur,Chepica (Chile),-34.7285856,-71.2738582
+Barranca,Perú,,América del Sur,Barranca (Perú),-10.7065265,-77.6747882
+Melo,Uruguay,,América del Sur,Melo (Uruguay),-32.3680849,-54.1697146
+Pisco,Perú,,América del Sur,Pisco (Perú),-13.7099813,-76.2029793
+Arequipa,Perú,,América del Sur,Arequipa (Perú),-16.3988667,-71.5369607
+Guayaquil,Ecuador,,América del Sur,Guayaquil (Ecuador),-2.2895167,-80.0983887
+Medellín,Colombia,,América del Sur,Medellín (Colombia),6.2697324,-75.6025597
+Bucaramanga,Colombia,,América del Sur,Bucaramanga (Colombia),7.1669842,-73.1047294
+El Dorado,Perú,,América del Sur,El Dorado (Perú),-6.5839027,-76.6820534
+Cartago,Colombia,,América del Sur,Cartago (Colombia),4.7106592,-75.9323875
+Juliaca,Perú,,América del Sur,Juliaca (Perú),-15.4932314,-70.1356177
+Pucacaca,Perú,,América del Sur,Pucacaca (Perú),-6.8500511,-76.3430875
+Trujillo,Perú,,América del Sur,Trujillo (Perú),-8.1116778,-79.0287742
+Manta,Ecuador,,América del Sur,Manta (Ecuador),-1.0320064,-80.8169311
+Calama,Chile,,América del Sur,Calama (Chile),-22.4623917,-68.9272181
+Cusco,Perú,,América del Sur,Cusco (Perú),-13.5170887,-71.9785356
+Montalvo,Ecuador,,América del Sur,Montalvo (Ecuador),-1.8025855,-79.348133
+Panamá,Panamá,,América Central y Caribe,Panamá (Panamá),8.559559,-81.1308434
+Nueva York,Estados Unidos,,América del Norte,Nueva York (Estados Unidos),40.7127281,-74.0060152
+Miami,Estados Unidos,,América del Norte,Miami (Estados Unidos),25.7741728,-80.19362
+Madrid,España,,Europa,Madrid (España),40.4167047,-3.7035825
+Santo Domingo,República Dominicana,,América Central y Caribe,Santo Domingo (República Dominicana),18.4801972,-69.942111
+Samana,República Dominicana,,América Central y Caribe,Samana (República Dominicana),19.2036865,-69.3389611
+Arroyo Barril,República Dominicana,,América Central y Caribe,Arroyo Barril (República Dominicana),19.2035655,-69.4436553
+La Romana,República Dominicana,,América Central y Caribe,La Romana (República Dominicana),18.4230137,-68.9661104
+México DF,México,,América del Norte,México DF (México),19.512204,-98.8743676
+Punta Cana,República Dominicana,,América Central y Caribe,Punta Cana (República Dominicana),18.556551,-68.3691611
+Roma,Italia,,Europa,Roma (Italia),41.8933203,12.4829321
+Frankfurt am Main,Alemania,,Europa,Frankfurt am Main (Alemania),50.1106444,8.6820917
+Houston,Estados Unidos,,América del Norte,Houston (Estados Unidos),29.7589382,-95.3676974
+Palma de Mallorca,España,,Europa,Palma de Mallorca (España),39.5695818,2.6500745
+Espargos,Cabo Verde,,África,Espargos (Cabo Verde),16.7577983,-22.9431454
+París,Francia,,Europa,París (Francia),48.8534951,2.3483915
+Paris,Francia,,Europa,Paris (Francia),48.8588897,2.320041
+Thurso,Reino Unido de Gran Bretaña e Irlanda del Norte,,Europa,Thurso (Reino Unido de Gran Bretaña e Irlanda del Norte),58.5947443,-3.520577
+Munich,Alemania,,Europa,Munich (Alemania),48.1371079,11.5753822
+Las Palmas,España,,Europa,Las Palmas (España),27.9580004,-15.6062305
+Mpumalanga,Sudáfrica,,África,Mpumalanga (Sudáfrica),-26.276849,30.1500153
+Barcelona,España,,Europa,Barcelona (España),41.3825802,2.177073
+Cancún,México,,América del Norte,Cancún (México),21.1527467,-86.8425761
+Auckland,Nueva Zelandia,,Oceanía,Auckland (Nueva Zelandia),-36.852095,174.7631803
+Dallas-Fort Worth,Estados Unidos,,América del Norte,Dallas-Fort Worth (Estados Unidos),32.8965194,-97.0465221
+Londres,Reino Unido de Gran Bretaña e Irlanda del Norte,,Europa,Londres (Reino Unido de Gran Bretaña e Irlanda del Norte),51.5074456,-0.1277653
+Cayo Coco,Cuba,,América Central y Caribe,Cayo Coco (Cuba),22.4718562,-78.4486874
+Atlanta,Estados Unidos,,América del Norte,Atlanta (Estados Unidos),33.7489924,-84.3902644
+Amsterdam,Países Bajos,,Europa,Amsterdam (Países Bajos),52.3730796,4.8924534
+Dallas,Estados Unidos,,América del Norte,Dallas (Estados Unidos),32.7762719,-96.7968559
+La Habana,Cuba,,América Central y Caribe,La Habana (Cuba),23.135305,-82.3589631
+Panama City,Estados Unidos,,América del Norte,Panama City (Estados Unidos),30.1586518,-85.6602936
+Mobile,Estados Unidos,,América del Norte,Mobile (Estados Unidos),30.6913462,-88.0437509
+Fort Lauderdale,Estados Unidos,,América del Norte,Fort Lauderdale (Estados Unidos),26.1223084,-80.1433786
+Santiago de Cuba,Cuba,,América Central y Caribe,Santiago de Cuba (Cuba),20.0214263,-75.8294928
+Mende,Francia,,Europa,Mende (Francia),44.5180226,3.4991057
+Chicago,Estados Unidos,,América del Norte,Chicago (Estados Unidos),41.8755616,-87.6244212
+Holguin,Cuba,,América Central y Caribe,Holguin (Cuba),20.8869704,-76.2591995
+Puerto Plata,República Dominicana,,América Central y Caribe,Puerto Plata (República Dominicana),19.7225234,-70.7208338
+Birmingham,Reino Unido de Gran Bretaña e Irlanda del Norte,,Europa,Birmingham (Reino Unido de Gran Bretaña e Irlanda del Norte),52.4796992,-1.9026911
+Santa Clara,Cuba,,América Central y Caribe,Santa Clara (Cuba),22.406628,-79.9651013
+Rome,Italia,,Europa,Rome (Italia),41.8933203,12.4829321
+West Palm Beach,Estados Unidos,,América del Norte,West Palm Beach (Estados Unidos),26.715364,-80.0532942
+Willemstad,Curazao,,América Central y Caribe,Willemstad (Curazao),12.1066695,-68.9351307
+Tapachula,México,,América del Norte,Tapachula (México),14.9258055,-92.3221957
+Toronto,Canadá,,América del Norte,Toronto (Canadá),43.6534817,-79.3839347
+Mérida,México,,América del Norte,Mérida (México),20.9670759,-89.6237402
+Oranjestad,Aruba,,América Central y Caribe,Oranjestad (Aruba),12.5201024,-70.0371329
+Zurich,Suiza,,Europa,Zurich (Suiza),47.3744489,8.5410422
+Rotterdam,Países Bajos,,Europa,Rotterdam (Países Bajos),51.9244424,4.47775
+Los Angeles,Estados Unidos,,América del Norte,Los Angeles (Estados Unidos),34.0536909,-118.242766
+East London,Sudáfrica,,África,East London (Sudáfrica),-33.0191604,27.8998573
+Nueva Orleans,Estados Unidos,,América del Norte,Nueva Orleans (Estados Unidos),29.9759983,-90.0782127
+Lübeck,Alemania,,Europa,Lübeck (Alemania),53.866444,10.684738
+Tampa,Estados Unidos,,América del Norte,Tampa (Estados Unidos),27.9477595,-82.458444
+Altenrhein,Suiza,,Europa,Altenrhein (Suiza),47.4903839,9.5540541
+Geneva,Suiza,,Europa,Geneva (Suiza),46.2017559,6.1466014
+Gaillac,Francia,,Europa,Gaillac (Francia),43.9016766,1.8967943
+Orlando,Estados Unidos,,América del Norte,Orlando (Estados Unidos),28.5421109,-81.3790304
+Salt Lake City,Estados Unidos,,América del Norte,Salt Lake City (Estados Unidos),40.7596198,-111.886797
+Sydney,Australia,,Oceanía,Sydney (Australia),-33.8698439,151.2082848
+Melbourne,Australia,,Oceanía,Melbourne (Australia),-37.8142454,144.9631732
+Bangkok,Tailandia,,Asia,Bangkok (Tailandia),13.7524938,100.4935089
+Johannesburgo,Sudáfrica,,África,Johannesburgo (Sudáfrica),-26.205,28.049722
+Alajuela,Costa Rica,,América Central y Caribe,Alajuela (Costa Rica),10.4523316,-84.4663284
+Larnaca,Chipre,,Asia,Larnaca (Chipre),34.916667,33.633333
+Moscú,Rusia,,Europa,Moscú (Rusia),55.625578,37.6063916
+Addis Ababa,Etiopía,,África,Addis Ababa (Etiopía),9.0358287,38.7524127
+Lisbon,Portugal,,Europa,Lisbon (Portugal),38.7077507,-9.1365919
+Beijing,China,,Asia,Beijing (China),39.90403,116.407526
+Memphis,Estados Unidos,,América del Norte,Memphis (Estados Unidos),35.1460249,-90.0517638
+Cape Town,Sudáfrica,,África,Cape Town (Sudáfrica),-33.9288301,18.4172197
+Milán,Italia,,Europa,Milán (Italia),45.4641943,9.1896346
+Brisbane,Australia,,Oceanía,Brisbane (Australia),-27.4689682,153.0234991
+Darwin,Australia,,Oceanía,Darwin (Australia),-12.46044,130.8410469
+Moscow,Rusia,,Europa,Moscow (Rusia),55.625578,37.6063916
+Glasgow,Reino Unido de Gran Bretaña e Irlanda del Norte,,Europa,Glasgow (Reino Unido de Gran Bretaña e Irlanda del Norte),55.861155,-4.2501687
+Montreal,Canadá,,América del Norte,Montreal (Canadá),45.5031824,-73.5698065
+Washington,Estados Unidos,,América del Norte,Washington (Estados Unidos),38.8950368,-77.0365427
+Bilbao,España,,Europa,Bilbao (España),43.2630018,-2.9350039
+Fort Myers,Estados Unidos,,América del Norte,Fort Myers (Estados Unidos),26.640628,-81.8723084
+Hamburg,Alemania,,Europa,Hamburg (Alemania),53.550341,10.000654
+Baltimore,Estados Unidos,,América del Norte,Baltimore (Estados Unidos),39.2908816,-76.610759
+Tenerife Island,España,,Europa,Tenerife Island (España),28.2935785,-16.6214471
+Dubai,Emiratos Árabes Unidos,,Asia,Dubai (Emiratos Árabes Unidos),25.0742823,55.1885387
+Farnborough,Reino Unido de Gran Bretaña e Irlanda del Norte,,Europa,Farnborough (Reino Unido de Gran Bretaña e Irlanda del Norte),51.2918693,-0.7539836
+Adaba,Etiopía,,África,Adaba (Etiopía),7.0072505,39.3917175
+Münster,Alemania,,Europa,Münster (Alemania),51.9625101,7.6251879
+Marana,Estados Unidos,,América del Norte,Marana (Estados Unidos),32.4483736,-111.211475
+Guidonia,Italia,,Europa,Guidonia (Italia),41.9972039,12.7263446
+Valletta,Malta,,Europa,Valletta (Malta),35.8989979,14.5136607
+Puerto San José,Guatemala,,América Central y Caribe,Puerto San José (Guatemala),13.9246126,-90.8191844
+Camp Springs,Estados Unidos,,América del Norte,Camp Springs (Estados Unidos),38.8020807,-76.9241908
+La Isabela,República Dominicana,,América Central y Caribe,La Isabela (República Dominicana),19.8845082,-71.0736977
+Hatzfeldhaven,Papúa Nueva Guinea,,Oceanía,Hatzfeldhaven (Papúa Nueva Guinea),-4.3985481,145.2080679
+Caracas,Venezuela,,América del Sur,Caracas (Venezuela),10.5060934,-66.9146008
+Ocumare del Tuy,Venezuela,,América del Sur,Ocumare del Tuy (Venezuela),10.1136963,-66.7757458
+Cascavel,Brasil,,América del Sur,Cascavel (Brasil),-24.9554996,-53.4560544
+João Pessoa,Brasil,,América del Sur,João Pessoa (Brasil),-7.1215981,-34.882028
+Angol,Chile,,América del Sur,Angol (Chile),-37.798787,-72.7086097
+Navegantes,Brasil,,América del Sur,Navegantes (Brasil),-26.8898813,-48.6495828
+Aracaju,Brasil,,América del Sur,Aracaju (Brasil),-10.9162061,-37.0774655
+Trismaje,Perú,,América del Sur,Trismaje (Perú),-8.51782,-76.4805
+Cartagena,Colombia,,América del Sur,Cartagena (Colombia),10.4265566,-75.5441671
+Ballivian,Bolivia,,América del Sur,Ballivian (Bolivia),-16.489257,-68.1821993
+Gavião Peixoto,Brasil,,América del Sur,Gavião Peixoto (Brasil),-21.8377536,-48.492853
+Campos Dos Goytacazes,Brasil,,América del Sur,Campos Dos Goytacazes (Brasil),-21.7546,-41.3242
+São Luís,Brasil,,América del Sur,São Luís (Brasil),-2.5295265,-44.2963942
+Cali,Colombia,,América del Sur,Cali (Colombia),3.4519988,-76.5325259
+Rapel,Chile,,América del Sur,Rapel (Chile),-33.9434247,-71.7380794
+Bagé,Brasil,,América del Sur,Bagé (Brasil),-31.3314264,-54.1062808
+Puerto Maldonado,Perú,,América del Sur,Puerto Maldonado (Perú),-12.5938633,-69.1866773
+Piura,Perú,,América del Sur,Piura (Perú),-5.0,-80.333333
+Rioja,Perú,,América del Sur,Rioja (Perú),-5.8797993,-77.4276533
+San José Del Guaviare,Colombia,,América del Sur,San José Del Guaviare (Colombia),2.5716141,-72.6426515
+Salto del Guaira,Paraguay,,América del Sur,Salto del Guaira (Paraguay),-24.056639,-54.3342067
+Pereira,Colombia,,América del Sur,Pereira (Colombia),4.7854606,-75.788322
+Lebu,Chile,,América del Sur,Lebu (Chile),-37.6102279,-73.656055
+Combarbala,Chile,,América del Sur,Combarbala (Chile),-31.1781518,-71.0024382
+M. Caballero,Bolivia,,América del Sur,M. Caballero (Bolivia),-17.8271852,-64.5317328
+Cúcuta,Colombia,,América del Sur,Cúcuta (Colombia),8.0776187,-72.4689002
+Sucre,Bolivia,,América del Sur,Sucre (Bolivia),-19.0477251,-65.2594306
+Santo Domingo,Chile,,América del Sur,Santo Domingo (Chile),-33.7863749,-71.6756251
+Ranguelmo,Chile,,América del Sur,Ranguelmo (Chile),-36.5787404,-72.7632805
+San José de Chiquitos,Bolivia,,América del Sur,San José de Chiquitos (Bolivia),-17.8454338,-60.7421903
+Parnaíba,Brasil,,América del Sur,Parnaíba (Brasil),-2.9147515,-41.7661953
+Leticia,Colombia,,América del Sur,Leticia (Colombia),-4.2129211,-69.9425963
+Praia da Vitória,Portugal,,Europa,Praia da Vitória (Portugal),38.7392376,-27.1562644
